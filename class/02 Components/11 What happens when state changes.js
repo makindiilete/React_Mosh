@@ -1,0 +1,3 @@
+/* When we call the "this.setState()", at the point, the method is telling react that this state needs to change.....
+
+When we call the setState method.... Reacy schedule a call to the "render()" telling the dom that this state will change sometime in the future and this will be when the user clicks on the button and when this happens, only the badge count value will be updated....*/

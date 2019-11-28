@@ -1,0 +1,1 @@
+/*We have various options to connect our front end react app to backend but we will be using Nodejs backend in this app.....*/
